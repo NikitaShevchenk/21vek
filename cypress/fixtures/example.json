@@ -1,0 +1,21 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "userLogin": "ttqoyc@fexbox.org",
+  "userPassword": "oz2aSUW2",
+  
+  "dropdownValues" : 
+    ["Корзина",
+      "Избранные товары",
+      "Просмотренные",
+      "Списки сравнения",
+      "Лист ожидания",
+      "Бонусный счет",
+      "Личные данные",
+      "История покупок",
+      "Отзывы и вопросы",
+      "Выход"
+    ]
+    
+}
